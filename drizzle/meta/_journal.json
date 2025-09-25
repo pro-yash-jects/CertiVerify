@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1758794134636,
+      "tag": "0000_nifty_skaar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1758794359318,
+      "tag": "0001_spooky_randall_flagg",
+      "breakpoints": true
+    }
+  ]
+}
